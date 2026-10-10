@@ -1,0 +1,29 @@
+course_id,course_title,category,difficulty,duration_weeks,total_videos,avg_video_length_min,total_assessments,price_usd,instructor_rating
+C001,Python for Data Analysis,Data Science,Intermediate,8,40,18,8,0,4.0
+C002,SQL Masterclass,Data Science,Intermediate,10,60,14,10,49,4.7
+C003,Machine Learning Basics,Data Science,Advanced,8,40,17,16,19,4.5
+C004,Tableau Dashboards,Data Science,Beginner,10,50,11,20,79,4.2
+C005,Statistics for Analysts,Data Science,Advanced,10,60,17,20,49,4.5
+C006,Financial Statement Analysis,Finance,Beginner,8,32,19,16,149,4.2
+C007,Equity Valuation,Finance,Beginner,8,48,10,8,49,4.2
+C008,Excel for Finance,Finance,Intermediate,8,32,9,16,79,4.6
+C009,Corporate Finance Fundamentals,Finance,Intermediate,10,60,12,20,79,4.5
+C010,Fixed Income Essentials,Finance,Beginner,4,16,17,8,79,4.0
+C011,Python Foundations,Programming,Intermediate,8,40,14,8,0,4.1
+C012,JavaScript Essentials,Programming,Intermediate,8,32,8,16,49,4.6
+C013,Git and GitHub,Programming,Intermediate,6,30,8,6,19,4.3
+C014,Web Development Bootcamp,Programming,Advanced,6,30,17,6,29,4.4
+C015,Data Structures Primer,Programming,Intermediate,8,40,17,16,29,4.5
+C016,Business Strategy 101,Business,Beginner,4,20,9,4,79,4.5
+C017,Product Management,Business,Beginner,8,48,9,8,49,4.4
+C018,Project Management,Business,Beginner,8,48,15,8,0,4.0
+C019,Negotiation Skills,Business,Advanced,12,60,16,12,149,4.3
+C020,Business Communication,Business,Intermediate,8,32,16,8,0,4.3
+C021,UI/UX Fundamentals,Design,Intermediate,6,36,11,12,19,4.0
+C022,Figma in Practice,Design,Intermediate,10,50,15,10,49,4.9
+C023,Graphic Design Basics,Design,Intermediate,4,24,12,8,49,4.7
+C024,Digital Marketing,Marketing,Beginner,4,16,10,8,19,4.1
+C025,SEO Essentials,Marketing,Intermediate,6,30,15,6,149,4.1
+C026,Brand Building,Marketing,Intermediate,4,16,11,4,49,4.5
+C027,Social Media Analytics,Marketing,Intermediate,8,48,11,16,49,4.2
+C028,Content Strategy,Marketing,Beginner,10,40,8,20,19,4.1
