@@ -3,7 +3,7 @@
 > **Business question:** why do some learners complete online courses while others drop out?
 > This project analyses login frequency, video consumption, assessment attempts, course progress and completion behaviour, then turns the findings into an **early-warning model** that flags at-risk learners while there is still time to help them.
 
-**Live app:** http://192.168.1.33:8501/ *(local-network link, active while the app is running on my machine)*
+**Live app:** [elearning-engagement-analytics.streamlit.app](https://elearning-engagement-analytics.streamlit.app/)
 **Author:** Ayantik Pandit  |  **Stack:** Python, Pandas, Plotly, scikit-learn, Streamlit, GitHub
 
 ---
@@ -74,6 +74,8 @@ At week 2, flagging learners at a 0.5 risk threshold gives precision of about 0.
 5. **Track "active last week" as the health metric** instead of enrollment status.
 
 ## What the app does
+
+Try it live: **https://elearning-engagement-analytics.streamlit.app/**
 
 | Tab | What you can do |
 |---|---|
